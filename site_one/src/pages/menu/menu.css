@@ -1,0 +1,33 @@
+.screen2{
+    background-image: url('../../img/Star-wars-logo-new-tall.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 2rem;
+   
+}
+.search-title{
+    background-color: #494848;
+    color: white;
+    padding: .5rem;
+    max-width: 800px;
+    min-width: 200px;
+    width: 60%;
+    border-radius: 8px;
+    margin-left: 2rem;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 2rem;
+}
+.card{
+    color: white;
+    padding: .4rem;
+    text-align: center;
+    width: 19%;
+    min-height: 150px;
+    background-color: black;
+    box-shadow: 0px 5px 10px 0px rgb(22, 68, 250); 
+
+}
