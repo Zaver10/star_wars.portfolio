@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/star_wars.portfolio/static/css/main.1eb0f715.css",
+    "main.js": "/star_wars.portfolio/static/js/main.ef927566.js",
+    "static/media/scren1.png": "/star_wars.portfolio/static/media/scren1.90576f52ff21b1781d23.png",
+    "static/media/big-placeholder.jpg": "/star_wars.portfolio/static/media/big-placeholder.91ddff355bac51b2ae77.jpg",
+    "static/media/Star-wars-logo-new-tall.webp": "/star_wars.portfolio/static/media/Star-wars-logo-new-tall.5c0b4299a2d10c3fd1ff.webp",
+    "index.html": "/star_wars.portfolio/index.html",
+    "main.1eb0f715.css.map": "/star_wars.portfolio/static/css/main.1eb0f715.css.map",
+    "main.ef927566.js.map": "/star_wars.portfolio/static/js/main.ef927566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb0f715.css",
+    "static/js/main.ef927566.js"
+  ]
+}
